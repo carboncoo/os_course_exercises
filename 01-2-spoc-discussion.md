@@ -1,6 +1,6 @@
 # 操作系统概述
 
----
+计54 陈驰 2015011330
 
 # 思考题
 
@@ -38,11 +38,7 @@
 
     答：因为python和java不够底层，不能很好的满足操作系统对性能的需求。
 
----
-
 ## 可选练习题
-
----
 
 - 请分析并理解[v9\-computer](https://github.com/chyyuu/os_tutorial_lab/blob/master/v9_computer/docs/v9_computer.md)以及模拟v9\-computer的em.c。理解：在v9\-computer中如何实现时钟中断的；v9 computer的CPU指令，关键变量描述有误或不全的情况；在v9\-computer中的跳转相关操作是如何实现的；在v9\-computer中如何设计相应指令，可有效实现函数调用与返回；OS程序被加载到内存的哪个位置,其堆栈是如何设置的；在v9\-computer中如何完成一次内存地址的读写的；在v9\-computer中如何实现分页机制；
 
